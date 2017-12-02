@@ -1,0 +1,9 @@
+{
+  "name": "jvd",
+  "version": "0.0.1",
+  "description": "javascript vim debugger",
+  "main": "app.js",
+  "repository": "https://github.com/Anzumana/jvd",
+  "author": "Anzumana Taal ,Andrey Sidorov",
+  "license": "MIT"
+}
