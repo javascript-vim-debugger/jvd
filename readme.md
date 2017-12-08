@@ -15,5 +15,8 @@ Running 7.6 version of node get it [here](https://nodejs.org/dist/v7.6.0/)
 then https://github.com/sidorares/node-vim-debugger does work
 
 There is a firefox client that can connect to the firefox debugger  https://github.com/harthur/firefox-client
+ 
+ If you want to connect the node client to the debugger chrome has to be started using this command
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222
 
 
