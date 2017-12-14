@@ -8,6 +8,8 @@
   "license": "MIT",
   "dependencies": {
     "chrome-remote-interface": "^0.25.4",
+    "jest": "^21.2.1",
+    "jest-cli": "^21.2.1",
     "vim-netbeans": "^2.0.2"
   }
 }
