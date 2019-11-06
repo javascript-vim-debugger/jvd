@@ -1,0 +1,6 @@
+[submodule "node-vim-debugger"]
+	path = node-vim-debugger
+	url = https://github.com/Anzumana/node-vim-debugger
+[submodule "debugger"]
+	path = debugger
+	url = https://github.com/firefox-devtools/debugger
