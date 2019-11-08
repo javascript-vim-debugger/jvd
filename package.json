@@ -5,6 +5,10 @@
   "scripts": {
     "test": "jest"
   },
+	"jest": {
+    "verbose": true,
+		"testPathIgnorePatterns": ["debugger/", "/node_modules/"]
+  },
   "main": "app.js",
   "repository": "https://github.com/Anzumana/jvd",
   "author": "Anzumana Taal ,Andrey Sidorov",
